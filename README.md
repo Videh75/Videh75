@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Videh Nandini
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Videh Nandini
 
 I'm a passionate Full Stack Developer with 2.6+ years of experience building modern web applications using React, JavaScript, TypeScript, Golang, and more. I love turning complex problems into elegant, scalable solutions.
 
@@ -72,7 +72,7 @@ I'm a passionate Full Stack Developer with 2.6+ years of experience building mod
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=videhnandini&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Videh75&theme=rogue" />
 </p>
 
 ---
@@ -82,5 +82,5 @@ I'm a passionate Full Stack Developer with 2.6+ years of experience building mod
 🔧 I enjoy debugging almost as much as building. Every bug is just a misunderstood feature waiting to shine. 😉
 
 [linkedin]: https://www.linkedin.com/in/videh-nandini/
-[gmail]: videhnandini75@gmail.com
+[gmail]: mailto:videhnandini75@gmail.com
 [github]: https://github.com/Videh75
